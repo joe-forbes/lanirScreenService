@@ -1,0 +1,23 @@
+{
+  "name": "lanirScreenService",
+  "version": "0.0.1",
+  "description": "Web-hostable REST API giving users secure access to their device information and screen layouts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joe-forbes/lanirScreenService.git"
+  },
+  "keywords": [
+    "Remote",
+    "Control"
+  ],
+  "author": "joe forbes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joe-forbes/lanirScreenService/issues"
+  },
+  "homepage": "https://github.com/joe-forbes/lanirScreenService"
+}
