@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/joe-forbes/lanirScreenService/issues"
   },
-  "homepage": "https://github.com/joe-forbes/lanirScreenService"
+  "homepage": "https://github.com/joe-forbes/lanirScreenService",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "test-console": "^0.7.1"
+  }
 }
