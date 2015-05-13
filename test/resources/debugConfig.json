@@ -1,0 +1,24 @@
+{
+  "loggingTargets":[
+    {
+      "targetType": "file",
+      "targetConfig": {
+        "level" : "debug",
+        "filename" : "./test-log.json",
+        "handleExceptions" : true,
+        "json" : true,
+        "maxsize" : 5242880,
+        "maxFiles" : 5,
+        "colorize" : false
+      }
+    },
+    {
+      "targetType": "console",
+      "targetConfig": {
+        "level" : "info",
+        "handleExceptions" : true,
+        "colorize" : true
+      }
+    }
+  ]
+}
